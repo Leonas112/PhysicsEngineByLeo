@@ -1,0 +1,68 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (217CR Deferral Starter Project.vcxproj, DEFERAL RESIT.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AabbCollider.cpp
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(105,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(106,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(107,9): warning C4552: '*': result of expression not used
+  Collider.cpp
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(105,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(106,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(107,9): warning C4552: '*': result of expression not used
+  CollisionHandler.cpp
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(105,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(106,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(107,9): warning C4552: '*': result of expression not used
+  Cube.cpp
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(105,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(106,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(107,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Cube.cpp(45,63): warning C4305: 'argument': truncation from 'double' to 'float'
+  GameEngine.cpp
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(105,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(106,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(107,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\GameEngine.cpp(61,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  GameObject.cpp
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(105,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(106,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(107,9): warning C4552: '*': result of expression not used
+  GroundCube.cpp
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(105,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(106,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(107,9): warning C4552: '*': result of expression not used
+  Particle.cpp
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(105,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(106,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(107,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Particle.cpp(49,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Particle.cpp(56,63): warning C4305: 'argument': truncation from 'double' to 'float'
+  Player.cpp
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(105,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(106,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(107,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Player.cpp(52,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Player.cpp(61,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PlayerCube.cpp
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(105,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(106,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(107,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\PlayerCube.cpp(62,63): warning C4305: 'argument': truncation from 'double' to 'float'
+  RigidBody.cpp
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(105,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(106,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(107,9): warning C4552: '*': result of expression not used
+  Sphere.cpp
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(105,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(106,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(107,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Sphere.cpp(33,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Sphere.cpp(61,63): warning C4305: 'argument': truncation from 'double' to 'float'
+  SphereCollider.cpp
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(105,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(106,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(107,9): warning C4552: '*': result of expression not used
+  main.cpp
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(105,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(106,9): warning C4552: '*': result of expression not used
+C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\217CR Deferral Starter Project\Vec3.h(107,9): warning C4552: '*': result of expression not used
+  Generating Code...
+  217CR Deferral Starter Project.vcxproj -> C:\Users\Leonas\Downloads\9378010-Deferal-Resit-main\9378010-Deferal-Resit-main\x64\Debug\PhysicsEngine by Leo.exe
